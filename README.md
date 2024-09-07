@@ -1,4 +1,4 @@
-## HSR Builds - Seu Guia para os Melhores Builds de Honkai Star Rail
+## HSR Builds - Seu Guia para os Melhores Builds de Honkai Star Rail - Imersão Dev com Google Gemini
 
 **O que é esse projeto?**
 
