@@ -40,4 +40,6 @@ Este projeto é feito por fãs para fãs e não tem afiliação com a HoYoverse.
 
 **Vamos juntos construir a melhor comunidade de builds para Honkai Star Rail!**
 
+https://buildshonkai.vercel.app/
+
 ## **#honkaistarrail #builds #webdev**
